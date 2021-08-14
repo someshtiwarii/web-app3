@@ -1,4 +1,4 @@
-# web-app3
+# Smiley Interpreter App
 A web app which can be used to find meaning of different smileys.
 It's made using:
 1. HTML
